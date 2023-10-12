@@ -1,0 +1,8 @@
+.venv/
+.vscode
+
+*__pycache__/
+*.py[cod]llm
+
+llm-models
+data
