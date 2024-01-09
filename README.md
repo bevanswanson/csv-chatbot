@@ -1,5 +1,4 @@
 # csv-chatbot
-trsti
 
 A chatbot that lets you use an LLM to query a CSV.
 
